@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/01_recon/tcp/22 - SSH.md",
+                "file": "knowledge/01_recon/tcp/25 - SMTP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "22 - SSH"
+              "title": "25 - SMTP"
             }
           }
         ]
@@ -184,8 +184,9 @@
   },
   "active": "692970a31159c44c",
   "lastOpenFiles": [
-    "Cheatsheet.md",
     "knowledge/01_recon/tcp/22 - SSH.md",
+    "knowledge/01_recon/tcp/25 - SMTP.md",
+    "Cheatsheet.md",
     "knowledge/01_recon/tcp",
     "knowledge/01_recon",
     "writeups",
