@@ -46,8 +46,11 @@ for ip in $(cat smb_hosts.txt); do enum4linux -a $ip; done
 # How to Connect
 ## smbclient
 This will attempt to list shares with anonymous access. If prompted for a root password, just enter nothing:
-`smbclient -L \\\\IP_ADDRESS\\`
+```bash
+smbclient -L \\\\IP_ADDRESS\\
+```
 List specific shares content:
+
 `smbclient -L \\\\$IP_ADDRESS\\share`
 ## rpcclient
 `rpcclient -U "" -N $IP_ADDRESS`
