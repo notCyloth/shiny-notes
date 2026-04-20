@@ -11,4 +11,4 @@ Attacks:
 - [ ] SQLi
 - [ ] Webshell to Revshell
 - [ ] XSS
-- [ ] SSRF to Hash
+- [ ] SSRF
