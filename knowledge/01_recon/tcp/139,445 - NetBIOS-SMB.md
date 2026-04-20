@@ -50,7 +50,10 @@ This will attempt to list shares with anonymous access. If prompted for a root p
 smbclient -L \\\\IP_ADDRESS\\
 ```
 List specific shares content:
-
-`smbclient -L \\\\$IP_ADDRESS\\share`
+```
+smbclient -L \\\\$IP_ADDRESS\\share
+```
 ## rpcclient
-`rpcclient -U "" -N $IP_ADDRESS`
+```bash
+rpcclient -U "" -N $IP_ADDRESS
+```
