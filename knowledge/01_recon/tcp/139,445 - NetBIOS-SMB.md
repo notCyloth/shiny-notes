@@ -19,5 +19,11 @@ Example listing all shares running on dc01:
 `msfconsole`
 `use auxiliary/scanner/smb/smb_version`
 ## enum4linux
-
+This will apply all enumeration options:
 `enum4linux-ng -a $IP_ADDRESS -oA output`
+How to loop enum4linux for multiple IP's...
+`for ip in $(cat smb_hosts.txt); do enum4linux -a $ip; done`
+# How to Connect
+## smbclient
+This will attempt to list shares with anonymous access. If prompted for a root password, just enter nothing:
+`smbclient -L \\\\IP_ADDRESS\\`
