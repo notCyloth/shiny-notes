@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/01_recon/tcp/53 - DNS.md",
+                "file": "knowledge/02_initial-access/web/checklist.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "53 - DNS"
+              "title": "checklist"
             }
           }
         ]
@@ -184,6 +184,7 @@
   },
   "active": "692970a31159c44c",
   "lastOpenFiles": [
+    "knowledge/01_recon/tcp/53 - DNS.md",
     "knowledge/02_initial-access/web/checklist.md",
     "knowledge/02_initial-access/web",
     "knowledge/01_recon/tcp/139, 445 - NetBIOS-SMB.md",
@@ -191,7 +192,6 @@
     "knowledge/00_start/Environment Variables.md",
     "knowledge/01_recon/tcp/389, 636, 3268, 3269 - LDAP.md",
     "knowledge/01_recon/tcp/80 - HTTP.md",
-    "knowledge/01_recon/tcp/53 - DNS.md",
     "knowledge/01_recon/tcp/25 - SMTP.md",
     "knowledge/01_recon/tcp/22 - SSH.md",
     "knowledge/01_recon/udp/123 - NTP.md",

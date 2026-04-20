@@ -9,3 +9,5 @@ dig @<$DNS_SERVER> $DOMAIN_NAME axfr
 ```bash
 dnsrecon -d $DOMAIN_NAME
 ```
+
+Add notes from: https://github.com/notCyloth/Cheatsheet/blob/main/5%20-%20Web/Enumeration/DNS.md

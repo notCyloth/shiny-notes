@@ -6,5 +6,9 @@ Enumeration:
 - [ ] API Fuzzing
 - [ ] .git File
 - [ ] Parameter Fuzzing
-- [ ] DNS
-- [ ] 
+Attacks:
+- [ ] File Upload
+- [ ] SQLi
+- [ ] Webshell to Revshell
+- [ ] XSS
+- [ ] SSRF to Hash
