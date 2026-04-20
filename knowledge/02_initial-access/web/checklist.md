@@ -1,2 +1,4 @@
 Enumeration:
+- [ ] Subdomains
+- [ ] Extension Fuzzing
 - [ ] 
