@@ -6,3 +6,5 @@ Enumeration:
 - [ ] API Fuzzing
 - [ ] .git File
 - [ ] Parameter Fuzzing
+- [ ] DNS
+- [ ] 
