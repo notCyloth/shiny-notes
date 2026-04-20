@@ -10,4 +10,4 @@
 `run`
 ## SMTP VRFY Command
 `telnet $IP_ADDRESS 25`
-``
+`VRFY $EMAIL`
