@@ -1,4 +1,5 @@
-## Checklist
+# Checklist
 - [ ] ssh-audit.py
-- [ ] Hydra
-- [ ] 
+- [ ] Hydra (Brute Force SSH Login)
+- [ ] Password Spraying (if there's a known password)
+## ssh-audit 
