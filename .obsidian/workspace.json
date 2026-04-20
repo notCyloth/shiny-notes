@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/02_initial-access/web.md",
+                "file": "knowledge/02_initial-access/web/checklist.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "web"
+              "title": "checklist"
             }
           }
         ]
@@ -184,8 +184,9 @@
   },
   "active": "692970a31159c44c",
   "lastOpenFiles": [
+    "knowledge/02_initial-access/web",
     "knowledge/01_recon/tcp/139, 445 - NetBIOS-SMB.md",
-    "knowledge/02_initial-access/web.md",
+    "knowledge/02_initial-access/web/checklist.md",
     "knowledge/02_initial-access",
     "knowledge/00_start/Environment Variables.md",
     "knowledge/01_recon/tcp/389, 636, 3268, 3269 - LDAP.md",
