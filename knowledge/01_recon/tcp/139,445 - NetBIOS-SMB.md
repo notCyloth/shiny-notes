@@ -5,6 +5,7 @@
 - [ ] Look for SMB Version
 - [ ] enum4linux
 - [ ] smbclient
+- [ ] rpcclient
 ## Nmap SMB Script Scan
 `nmap -v -p 139,445 -oG smb.txt $IP_RANGE
 `grep open smb.txt | cut -d " " -f 2`
@@ -27,3 +28,7 @@ How to loop enum4linux for multiple IP's...
 ## smbclient
 This will attempt to list shares with anonymous access. If prompted for a root password, just enter nothing:
 `smbclient -L \\\\IP_ADDRESS\\`
+List specific shares content:
+`smbclient -L \\\\$IP_ADDRESS\\share`
+## rpcclient
+`rpcclient -U "" -N $IP_ADDRESS`
