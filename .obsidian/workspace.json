@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/01_recon/tcp/Untitled.md",
+                "file": "knowledge/01_recon/tcp/53 - DNS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "53 - DNS"
             }
           }
         ]
@@ -185,7 +185,7 @@
   "active": "692970a31159c44c",
   "lastOpenFiles": [
     "knowledge/01_recon/tcp/389,636,3268,3269 - LDAP.md",
-    "knowledge/01_recon/tcp/Untitled.md",
+    "knowledge/01_recon/tcp/53 - DNS.md",
     "knowledge/01_recon/tcp/139,445 - NetBIOS-SMB.md",
     "knowledge/00_start/Environment Variables.md",
     "knowledge/01_recon/tcp/25 - SMTP.md",
