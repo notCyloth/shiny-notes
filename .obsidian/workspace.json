@@ -185,9 +185,9 @@
   "active": "692970a31159c44c",
   "lastOpenFiles": [
     "knowledge/01_recon/tcp/389,636,3268,3269 - LDAP.md",
-    "knowledge/01_recon/tcp/53 - DNS.md",
     "knowledge/01_recon/tcp/139,445 - NetBIOS-SMB.md",
     "knowledge/00_start/Environment Variables.md",
+    "knowledge/01_recon/tcp/53 - DNS.md",
     "knowledge/01_recon/tcp/25 - SMTP.md",
     "knowledge/00_start",
     "knowledge/01_recon/tcp/22 - SSH.md",
