@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/01_recon/tcp/139,445 - NetBIOS-SMB.md",
+                "file": "knowledge/00_start/Environment Variables.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "139,445 - NetBIOS-SMB"
+              "title": "Environment Variables"
             }
           }
         ]
@@ -184,8 +184,8 @@
   },
   "active": "692970a31159c44c",
   "lastOpenFiles": [
-    "knowledge/00_start/Environment Variables.md",
     "knowledge/01_recon/tcp/139,445 - NetBIOS-SMB.md",
+    "knowledge/00_start/Environment Variables.md",
     "knowledge/01_recon/tcp/25 - SMTP.md",
     "knowledge/00_start",
     "knowledge/01_recon/tcp/22 - SSH.md",
