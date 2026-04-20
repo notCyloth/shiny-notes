@@ -182,8 +182,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "692970a31159c44c",
+  "active": "745cefd77d2e1faa",
   "lastOpenFiles": [
+    "knowledge/02_initial-access/web/02_attacks",
+    "knowledge/02_initial-access/web/01_enumeration",
     "knowledge/01_recon/tcp/53 - DNS.md",
     "knowledge/02_initial-access/web/checklist.md",
     "knowledge/02_initial-access/web",
