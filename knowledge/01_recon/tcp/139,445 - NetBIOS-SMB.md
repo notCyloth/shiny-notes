@@ -14,4 +14,10 @@
 ## Enumerating off Windows (Living off the Land)
 net view lists domains, resources and computers belonging to a given host.
 Example listing all shares running on dc01:
-``
+`net view \\dc01 /all`
+## Look for SMB Version
+`msfconsole`
+`use auxiliary/scanner/smb/smb_version`
+## enum4linux
+
+`enum4linux-ng -a $IP_ADDRESS -oA output`
