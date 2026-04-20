@@ -7,7 +7,10 @@
 - [ ] smbclient
 - [ ] rpcclient
 ## Nmap SMB Script Scan
-`nmap -v -p 139,445 -oG smb.txt $IP_RANGE
+```bash
+nmap -v -p 139,445 -oG smb.txt $IP_RANGE
+```
+
 `grep open smb.txt | cut -d " " -f 2`
 `nmap -v -p 139,445 --script smb-os-discovery $IP_ADDRESS`
 ## nbtscan

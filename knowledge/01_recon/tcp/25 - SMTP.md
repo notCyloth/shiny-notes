@@ -17,5 +17,9 @@ set RHOSTS $IP_ADDRESS
 run
 ```
 ## SMTP VRFY Command
-`telnet $IP_ADDRESS 25`
-`VRFY $EMAIL`
+```bash
+telnet $IP_ADDRESS 25
+```
+```
+VRFY $EMAIL
+```
