@@ -10,4 +10,8 @@
 `grep open smb.txt | cut -d " " -f 2`
 `nmap -v -p 139,445 --script smb-os-discovery $IP_ADDRESS`
 ## nbtscan
-`sudo nbtscan -r $IP_ADDRESS # e.g. 192.168.50.0/24`
+`sudo nbtscan -r $IP_ADDRESS/24` e.g. 192.168.50.0/24
+## Enumerating off Windows (Living off the Land)
+net view lists domains, resources and computers belonging to a given host.
+Example listing all shares running on dc01:
+``
