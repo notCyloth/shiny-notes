@@ -182,8 +182,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "692970a31159c44c",
+  "active": "745cefd77d2e1faa",
   "lastOpenFiles": [
+    "knowledge/03_privesc/linux",
+    "knowledge/03_privesc/windows",
     "knowledge/02_initial-access/web/02_attacks/XSS.md",
     "knowledge/02_initial-access/web/02_attacks/Webshell to Revshell.md",
     "knowledge/02_initial-access/web/02_attacks/SSRF.md",
@@ -216,7 +218,6 @@
     "knowledge/01_recon/udp/25, 161, 162 - SNMP.md",
     "knowledge/01_recon/udp",
     "knowledge/00_start",
-    "knowledge/01_recon/tcp",
     "Welcome.md"
   ]
 }
