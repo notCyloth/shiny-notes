@@ -4,7 +4,7 @@ Enumeration:
 - [ ] [[Extension Fuzzing]]
 - [ ] [[Directory Fuzzing]]
 - [ ] API Fuzzing
-- [ ] .git File
+- [ ] [[git Files]]
 - [ ] Parameter Fuzzing
 Attacks:
 - [ ] File Upload
