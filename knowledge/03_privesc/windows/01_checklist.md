@@ -1,0 +1,4 @@
+- [ ] System Information
+- [ ] Abusing Privileges
+- [ ] Credentials Stored in Registry
+- [ ] Scheduled Tasks
