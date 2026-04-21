@@ -1,7 +1,10 @@
 # Checklist
-- [ ] Feroxbuster
-- [ ] Ffuf
-- [ ] 
+- [ ] feroxbuster
+- [ ] ffuf
+- [ ] dirbuster
+- [ ] dirb
+- [ ] gobuster
+- [ ] Other wordlists
 
 * feroxbuster
 ```bash
