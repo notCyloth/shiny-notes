@@ -184,9 +184,10 @@
   },
   "active": "692970a31159c44c",
   "lastOpenFiles": [
+    "knowledge/03_privesc/linux/sudo.md",
+    "knowledge/03_privesc/linux/01_checklist.md",
     "knowledge/03_privesc/linux/passwd.md",
     "knowledge/03_privesc/linux/Cronjobs.md",
-    "knowledge/03_privesc/linux/01_checklist.md",
     "knowledge/03_privesc/linux/SUID's and Capabilities.md",
     "knowledge/02_initial-access/web/checklist.md",
     "knowledge/02_initial-access/web/01_enumeration/Extension Fuzzing.md",
@@ -218,7 +219,6 @@
     "knowledge/01_recon/tcp/80 - HTTP.md",
     "knowledge/01_recon/tcp/25 - SMTP.md",
     "knowledge/01_recon/tcp/22 - SSH.md",
-    "knowledge/01_recon/udp/123 - NTP.md",
     "knowledge/01_recon/udp"
   ]
 }
