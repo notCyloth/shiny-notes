@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/02_initial-access/web/01_enumeration/Fingerprinting Technology Stack.md",
+                "file": "knowledge/02_initial-access/web/01_enumeration/Extension Fuzzing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fingerprinting Technology Stack"
+              "title": "Extension Fuzzing"
             }
           }
         ]
@@ -184,8 +184,8 @@
   },
   "active": "692970a31159c44c",
   "lastOpenFiles": [
-    "knowledge/02_initial-access/web/01_enumeration/Extension Fuzzing.md",
     "knowledge/02_initial-access/web/01_enumeration/Fingerprinting Technology Stack.md",
+    "knowledge/02_initial-access/web/01_enumeration/Extension Fuzzing.md",
     "knowledge/02_initial-access/web/01_enumeration/Subdomains.md",
     "knowledge/02_initial-access/web/checklist.md",
     "knowledge/01_recon/tcp/389, 636, 3268, 3269 - LDAP.md",

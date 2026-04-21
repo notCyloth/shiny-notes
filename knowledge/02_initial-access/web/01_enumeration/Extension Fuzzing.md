@@ -1,4 +1,7 @@
-Remember to check for pages with extensions like .aspx, .php etc...
+# Checklist
+- [ ] Brute force index page
+- [ ] Check source code of page
+- [ ] Identify Server Type
 # Identify Server Type
 Identify the server type based on HTTP response headers. For example: 
 #### apache
