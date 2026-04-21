@@ -13,5 +13,5 @@ ftp $IP_ADDRESS
 ```
 # Download all files
 ```bash
-
+wget -m —no-passive ftp://user:password@targetip
 ```
