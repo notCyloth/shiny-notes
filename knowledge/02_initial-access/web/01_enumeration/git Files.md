@@ -30,4 +30,7 @@ Show all tags:
 ```bash
 git tag
 ```
-Show specific
+Show specific tag:
+```bash
+git show <tag name>
+```
