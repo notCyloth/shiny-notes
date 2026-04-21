@@ -4,7 +4,7 @@ Enumeration:
 - [ ] [[Extension Fuzzing]]
 - [ ] [[Directory Fuzzing]]
 - [ ] [[API Fuzzing]]
-- [ ] 
+- [ ] [[]]
 - [ ] [[Parameter Fuzzing]]
 Attacks:
 - [ ] [[File Upload]]

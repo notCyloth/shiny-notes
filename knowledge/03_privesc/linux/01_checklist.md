@@ -3,6 +3,6 @@
 - [ ] [[SUID's and Capabilities]]
 - [ ] [[passwd]]
 - [ ] [[sudo]]
-- [ ] [[Git Files]]
+- [ ] [[knowledge/02_initial-access/web/01_enumeration/Git Files]]
 - [ ] Hunting Passwords
 - [ ] Kernel Exploits
