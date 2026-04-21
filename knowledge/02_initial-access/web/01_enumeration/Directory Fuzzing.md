@@ -27,7 +27,6 @@ Remember to check for other filetypes (pdf, txt, aspx, php, etc):
 gobuster dir -u $IP_ADDRESS -w /usr/share/wordlists/dirb/common.txt -t 5 -x pdf,txt
 ```
 Also remember to download any files found (exiftool the files to see who made them, are they a user? etc...)!
-
-Other wordlists:
+# Other wordlists:
 * /usr/share/wfuzz/wordlist/general/megabeast.txt
 * /usr/share/seclists/Discovery/Web-Content/raft-medium-directories.txt
