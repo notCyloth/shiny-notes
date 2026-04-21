@@ -2,6 +2,7 @@
 - [ ] ffuf
 - [ ] gobuster
 - [ ] AssetFinder
+- [ ] Ama
 
 ## ffuf
 ```bash
