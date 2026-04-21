@@ -5,7 +5,7 @@
 - [ ] Amass
 - [ ] httprobe
 - [ ] GoWitness
-- [ ] Bash Scri
+- [ ] Bash Script
 
 ## ffuf
 ```bash
