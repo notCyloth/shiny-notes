@@ -11,3 +11,7 @@ sudo nmap -p 21 -A $IP_ADDRESS
 ```bash
 ftp $IP_ADDRESS
 ```
+# Download all files
+```bash
+
+```
