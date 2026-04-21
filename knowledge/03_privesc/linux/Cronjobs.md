@@ -1,5 +1,4 @@
 On a Linux system, the cron time-based job scheduler is a prime target, since system-level scheduled jobs are executed with root user privileges and system administrators often create scripts for cron jobs with insecure permissions.
-
 # Enumeration
 ```bash
 crontab -l
