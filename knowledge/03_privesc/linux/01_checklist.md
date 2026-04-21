@@ -4,5 +4,5 @@
 - [ ] [[passwd]]
 - [ ] [[sudo]]
 - [ ] [[knowledge/03_privesc/linux/Git Files|Git Files]]
-- [ ] Hunting Passwords
+- [ ] [[Hunting Passwords]]
 - [ ] Kernel Exploits
