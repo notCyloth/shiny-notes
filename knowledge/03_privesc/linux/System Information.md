@@ -48,23 +48,19 @@ cat /home
 ```bash
 cat /etc/passwd
 ```
-
 ## History
 ```bash
 cat ~/.bash_history
 ```
-
 ## List Sudo Permissions
 ```bash
 sudo -l
-```
-```
-<insert sudo permissions here>
 ```
 ## Environment Variables
 ```bash
 env
 ```
+
 ```bash
 cat .bashrc
 ```
@@ -72,6 +68,7 @@ cat .bashrc
 ```bash
 ip a
 ```
+
 ```bash
 route
 ```
@@ -80,9 +77,11 @@ Or
 routel
 ```
 ...depending on distro.
+
 ```bash
 ss -anp
 ```
+
 ```bash
 sudo tcpdump -i $(INTERFACE) -A | grep "pass"
 ```
@@ -90,6 +89,7 @@ sudo tcpdump -i $(INTERFACE) -A | grep "pass"
 ```bash
 ls /etc/iptables
 ```
+
 ```bash
 ls /etc | grep "ip"
 ```
@@ -101,12 +101,15 @@ find / -perm -u=s -type f 2>/dev/null
 ```bash
 crontab -l
 ```
+
 ```bash
 sudo crontab -l
 ```
+
 ```bash
 cat /etc/crontab
 ```
+
 ```bash
 ls -lah /etc/cron*
 ```
