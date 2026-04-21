@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/03_privesc/linux/Untitled.md",
+                "file": "knowledge/03_privesc/linux/01_checklist.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "01_checklist"
+            }
+          },
+          {
+            "id": "a6b83970f95bf3f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "knowledge/03_privesc/linux/System Information.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "System Information"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,10 +197,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "692970a31159c44c",
+  "active": "a6b83970f95bf3f4",
   "lastOpenFiles": [
     "knowledge/03_privesc/linux/01_checklist.md",
-    "knowledge/03_privesc/linux/Untitled.md",
+    "knowledge/03_privesc/linux/PrivEsc Scripts.md",
+    "knowledge/03_privesc/linux/System Information.md",
     "knowledge/03_privesc/linux/Kernel Exploits.md",
     "knowledge/03_privesc/linux/Hunting Passwords.md",
     "knowledge/03_privesc/linux/SUID's and Capabilities.md",
@@ -214,7 +230,6 @@
     "knowledge/05_pivoting",
     "knowledge/04_active-directory",
     "knowledge/03_privesc",
-    "Cheatsheet.md",
     "knowledge/02_initial-access/web/02_attacks",
     "knowledge/02_initial-access/web/01_enumeration",
     "knowledge/02_initial-access/web",

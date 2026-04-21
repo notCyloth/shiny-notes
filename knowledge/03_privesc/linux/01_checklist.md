@@ -1,4 +1,4 @@
-- [ ] Enumerate system information
+- [ ] [[System Information]]
 - [ ] [[Cronjobs]]
 - [ ] [[SUID's and Capabilities]]
 - [ ] [[passwd]]
@@ -6,3 +6,4 @@
 - [ ] [[knowledge/03_privesc/linux/Git Files|Git Files]]
 - [ ] [[Hunting Passwords]]
 - [ ] [[Kernel Exploits]]
+- [ ] [[PrivEsc Scripts]]
