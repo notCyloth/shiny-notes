@@ -1,7 +1,7 @@
 # Checklist
 - [ ] Pattern files
-- [ ] Manual API Hacking
 - [ ] Enumerating API's further
+- [ ] Interacting with API's
 
 API paths are often followed by a version number, resulting in a pattern such as:
 ```
