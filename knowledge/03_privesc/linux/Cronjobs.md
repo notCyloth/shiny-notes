@@ -16,6 +16,7 @@ cat /etc/crontab
 ls -lah /etc/cron*
 ```
 Look for cron specific logs:
+
 ```bash
 ls /var/log
 ```
@@ -30,6 +31,7 @@ Example vulnerable log showing root running a script in a user writeable directo
 ```bash
 ls -lah /home/joe/.scripts/user_backups.sh
 ```
+
 ```bash
 cat /home/joe/.scripts/user_backups.sh
 ```
