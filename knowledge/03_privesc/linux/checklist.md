@@ -1,0 +1,4 @@
+- [ ] Enumerate system information
+- [ ] Cronjobs
+- [ ] SUID's and Capabilities
+- [ ] 
