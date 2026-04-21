@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/02_initial-access/web/01_enumeration/Subdomains.md",
+                "file": "knowledge/02_initial-access/web/checklist.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Subdomains"
+              "title": "checklist"
             }
           }
         ]
@@ -184,9 +184,9 @@
   },
   "active": "692970a31159c44c",
   "lastOpenFiles": [
-    "knowledge/02_initial-access/web/checklist.md",
     "knowledge/02_initial-access/web/01_enumeration/Subdomains.md",
     "knowledge/02_initial-access/web/01_enumeration/Fingerprinting Technology Stack.md",
+    "knowledge/02_initial-access/web/checklist.md",
     "knowledge/01_recon/tcp/389, 636, 3268, 3269 - LDAP.md",
     "knowledge/01_recon/tcp/139, 445 - NetBIOS-SMB.md",
     "knowledge/00_start/Environment Variables.md",

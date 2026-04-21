@@ -18,14 +18,14 @@ This will ALL return 200's but the request size will be different for a successf
 ```bash
 ffuf -w /usr/share/seclists/Discovery/DNS/subdomains-top1million-5000.txt:FUZZ -u http://website.com:PORT/ -H 'Host: FUZZ.website.com' -fs [RESPONSE SIZE TO FILTER OUT]
 ```
-## gobuster
+# gobuster
 ```bash
 gobuster dns -d 192.168.154.199 -w /usr/share/wordlists/amass/all.txt -t 5
 ```
 ```bash
 gobuster vhost -u [URL] -w /usr/share/wordlists/seclists/Discovery/DNS/subdomains-top1million-5000.txt --append-domain
 ```
-## AssetFinder
+# AssetFinder
 Requires go to be installed.
 ```bash
 go get -u github.com/tomnomnom/assetfinder
@@ -36,7 +36,7 @@ assetfinder [WEBSITE]
 e.g. assetfinder tesla.com > results.txt
 
 --subs-only flag only searches for directly related subdomains...
-## Amass
+# Amass
 Requires go to be installed.
 ```bash
 export GO111MODULE=on
@@ -51,7 +51,7 @@ i.e.
 ```bash
 amass enum -d tesla.com
 ```
-## httprobe (this checks if domains are alive)
+# httprobe (this checks if domains are alive)
 Requires go to be installed.
 ```
 go install github.com/tomnomnom/httprobe@latest
@@ -59,7 +59,7 @@ go install github.com/tomnomnom/httprobe@latest
 ```bash
 cat [LIST OF SUBDOMAINS FILE] | httprobe | sed 's/https\?:\/\///' | sed 's/http\?:\/\///'  | tr -d ':443' | tr -d ':80'
 ```
-## GoWitness (screenshots domains using headless chrome)
+# GoWitness (screenshots domains using headless chrome)
 ```bash
 go get -u gorm.io/gorm # Requires Go (duh!)
 ```
