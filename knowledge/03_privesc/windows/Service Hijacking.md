@@ -7,17 +7,13 @@ Services from the following paths are not writeable to user:
 * C:\Windows\SysWOW64
 * C:\ProgramData
 * C:\Users\All Users
+
 ```powershell
 Get-Service | Where-Object { $_.StartType -eq 'Automatic' } | Select-Object Name, Status, StartType
 ```
-```
-<insert output here>
-```
+
 ```powershell
 Get-CimInstance -ClassName win32_service | Select Name,State,PathName | Where-Object {$_.State -like 'Running'}
-```
-```
-<insert output here>
 ```
 ## Check interesting service for user writeable permissions
 icacls returns the following values related to permissions:
