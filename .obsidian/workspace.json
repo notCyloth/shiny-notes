@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/02_initial-access/web/checklist.md",
+                "file": "knowledge/03_privesc/linux/checklist.md",
                 "mode": "source",
                 "source": false
               },
@@ -182,8 +182,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "745cefd77d2e1faa",
+  "active": "692970a31159c44c",
   "lastOpenFiles": [
+    "knowledge/02_initial-access/web/checklist.md",
+    "knowledge/03_privesc/linux/checklist.md",
     "knowledge/03_privesc/linux",
     "knowledge/03_privesc/windows",
     "knowledge/02_initial-access/web/02_attacks/XSS.md",
@@ -191,7 +193,6 @@
     "knowledge/02_initial-access/web/02_attacks/SSRF.md",
     "knowledge/02_initial-access/web/02_attacks/SQLi.md",
     "knowledge/02_initial-access/web/02_attacks/File Upload.md",
-    "knowledge/02_initial-access/web/checklist.md",
     "knowledge/02_initial-access/web/01_enumeration/Parameter Fuzzing.md",
     "knowledge/02_initial-access/web/01_enumeration/git Files.md",
     "knowledge/02_initial-access/web/01_enumeration/API Fuzzing.md",
@@ -217,7 +218,6 @@
     "knowledge/01_recon/udp/123 - NTP.md",
     "knowledge/01_recon/udp/25, 161, 162 - SNMP.md",
     "knowledge/01_recon/udp",
-    "knowledge/00_start",
     "Welcome.md"
   ]
 }
