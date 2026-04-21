@@ -5,7 +5,7 @@ Enumeration:
 - [ ] [[Directory Fuzzing]]
 - [ ] [[API Fuzzing]]
 - [ ] [[git Files]]
-- [ ] [[Parameter Fuzzing
+- [ ] [[Parameter Fuzzing]]
 Attacks:
 - [ ] File Upload
 - [ ] SQLi
