@@ -7,5 +7,5 @@ sudo nmap -A -p $IP_ADDRESS
 ```
 # Login to the service
 ```bash
-sudo nmap -A -p $IP_ADDRESS
+impacket-mssqlclient $USERNAME@$IP_ADRESS -windows-auth
 ```

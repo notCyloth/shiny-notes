@@ -184,8 +184,9 @@
   },
   "active": "a6b83970f95bf3f4",
   "lastOpenFiles": [
-    "knowledge/01_recon/tcp/139, 445 - NetBIOS-SMB.md",
+    "knowledge/00_start/Environment Variables.md",
     "knowledge/01_recon/tcp/1433 - MSSQL.md",
+    "knowledge/01_recon/tcp/139, 445 - NetBIOS-SMB.md",
     "knowledge/01_recon/tcp/21 - FTP.md",
     "knowledge/01_recon/tcp/22 - SSH.md",
     "knowledge/03_privesc/windows/Service Hijacking.md",
@@ -211,7 +212,6 @@
     "knowledge/02_initial-access/web/02_attacks/Webshell to Revshell.md",
     "knowledge/02_initial-access/web/02_attacks/SSRF.md",
     "knowledge/02_initial-access/web/02_attacks/SQLi.md",
-    "knowledge/02_initial-access/web/02_attacks/File Upload.md",
     "knowledge/05_pivoting",
     "knowledge/04_active-directory",
     "knowledge/03_privesc",
