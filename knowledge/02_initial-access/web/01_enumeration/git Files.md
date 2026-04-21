@@ -3,7 +3,7 @@
 - [ ] Check different branches
 - [ ] Check previous commits
 - [ ] Check tags
-- [ ] Check confi
+- [ ] Check config
 # git-dumper
 git-dumper is used to dump a .git directory of a website.
 https://github.com/arthaud/git-dumper
@@ -34,4 +34,9 @@ git tag
 Show specific tag:
 ```bash
 git show <tag name>
+```
+# Check config
+Check for creds:
+```bash
+cat .git/config
 ```
