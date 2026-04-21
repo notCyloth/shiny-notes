@@ -17,6 +17,7 @@ Use the wappalyzer extension: https://www.wappalyzer.com/
 # URL extensions
 Does the URL have URL extensions?
 i.e. .php = php, .js, .do & .html = java
+LINK TO EXTENSION FUZZING HERE
 # Debugging Page Content
 Open the dev tools debugger on any browser. Look for files such as jquery.min.js...
 
