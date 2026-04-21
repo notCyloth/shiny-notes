@@ -3,4 +3,6 @@
 - [ ] Wappalyzer
 - [ ] URL extensions INSERT LINK TO EXTENSION FUZZING HERE
 - [ ] Debugging Page Content
-- [ ] Response 
+- [ ] Response Headers
+- [ ] Sitemaps
+- [ ] 
