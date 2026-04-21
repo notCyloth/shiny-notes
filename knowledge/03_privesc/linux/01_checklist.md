@@ -3,6 +3,6 @@
 - [ ] SUID's and Capabilities
 - [ ] passwd
 - [ ] sudo
-- [ ] Git Files
+- [ ] [[Git]]
 - [ ] Hunting Passwords
 - [ ] Kernel Exploits
