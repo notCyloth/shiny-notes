@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/03_privesc/linux/Git Files.md",
+                "file": "knowledge/03_privesc/linux/Hunting passwords.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git Files"
+              "title": "Hunting passwords"
             }
           }
         ]
@@ -185,13 +185,14 @@
   "active": "692970a31159c44c",
   "lastOpenFiles": [
     "knowledge/03_privesc/linux/01_checklist.md",
-    "knowledge/02_initial-access/web/checklist.md",
-    "knowledge/03_privesc/linux/Git Files.md",
-    "knowledge/02_initial-access/web/01_enumeration/Git Files.md",
+    "knowledge/03_privesc/linux/Hunting passwords.md",
+    "knowledge/03_privesc/linux/SUID's and Capabilities.md",
     "knowledge/03_privesc/linux/sudo.md",
     "knowledge/03_privesc/linux/passwd.md",
+    "knowledge/03_privesc/linux/Git Files.md",
+    "knowledge/02_initial-access/web/checklist.md",
+    "knowledge/02_initial-access/web/01_enumeration/Git Files.md",
     "knowledge/03_privesc/linux/Cronjobs.md",
-    "knowledge/03_privesc/linux/SUID's and Capabilities.md",
     "knowledge/02_initial-access/web/01_enumeration/Extension Fuzzing.md",
     "knowledge/02_initial-access/web/01_enumeration/API Fuzzing.md",
     "knowledge/03_privesc/linux",
