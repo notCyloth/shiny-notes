@@ -1,6 +1,6 @@
 Remember to check for pages with extensions like .aspx, .php etc...
 # Identify Server Type
-Identfy the server type based on HTTP response headers. For example: 
+Identify the server type based on HTTP response headers. For example: 
 #### apache
 - .php
 #### IIS
