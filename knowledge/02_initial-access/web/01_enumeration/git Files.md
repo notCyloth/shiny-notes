@@ -3,6 +3,7 @@
 - [ ] Check different branches
 - [ ] Check previous commits
 - [ ] Check tags
+- [ ] Check confi
 # git-dumper
 git-dumper is used to dump a .git directory of a website.
 https://github.com/arthaud/git-dumper

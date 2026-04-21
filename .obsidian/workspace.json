@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/03_privesc/linux/checklist.md",
+                "file": "knowledge/02_initial-access/web/01_enumeration/git Files.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "checklist"
+              "title": "git Files"
             }
           }
         ]
@@ -184,8 +184,8 @@
   },
   "active": "692970a31159c44c",
   "lastOpenFiles": [
-    "knowledge/02_initial-access/web/checklist.md",
     "knowledge/03_privesc/linux/checklist.md",
+    "knowledge/02_initial-access/web/checklist.md",
     "knowledge/03_privesc/linux",
     "knowledge/03_privesc/windows",
     "knowledge/02_initial-access/web/02_attacks/XSS.md",
