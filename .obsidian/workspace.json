@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/03_privesc/linux/SUID's and capabilities.md",
+                "file": "knowledge/03_privesc/linux/01_checklist.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SUID's and capabilities"
+              "title": "01_checklist"
             }
           }
         ]
@@ -184,9 +184,9 @@
   },
   "active": "692970a31159c44c",
   "lastOpenFiles": [
-    "knowledge/03_privesc/linux/01_checklist.md",
     "knowledge/03_privesc/linux/SUID's and capabilities.md",
     "knowledge/03_privesc/linux/Cronjobs.md",
+    "knowledge/03_privesc/linux/01_checklist.md",
     "knowledge/02_initial-access/web/checklist.md",
     "knowledge/02_initial-access/web/01_enumeration/Extension Fuzzing.md",
     "knowledge/02_initial-access/web/01_enumeration/API Fuzzing.md",
