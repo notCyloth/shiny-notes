@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/03_privesc/linux/Kernel Exploits.md",
+                "file": "knowledge/03_privesc/linux/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kernel Exploits"
+              "title": "Untitled"
             }
           }
         ]
@@ -185,6 +185,7 @@
   "active": "692970a31159c44c",
   "lastOpenFiles": [
     "knowledge/03_privesc/linux/01_checklist.md",
+    "knowledge/03_privesc/linux/Untitled.md",
     "knowledge/03_privesc/linux/Kernel Exploits.md",
     "knowledge/03_privesc/linux/Hunting Passwords.md",
     "knowledge/03_privesc/linux/SUID's and Capabilities.md",
@@ -216,7 +217,6 @@
     "Cheatsheet.md",
     "knowledge/02_initial-access/web/02_attacks",
     "knowledge/02_initial-access/web/01_enumeration",
-    "knowledge/01_recon/tcp/53 - DNS.md",
     "knowledge/02_initial-access/web",
     "knowledge/02_initial-access",
     "knowledge/01_recon/udp"
