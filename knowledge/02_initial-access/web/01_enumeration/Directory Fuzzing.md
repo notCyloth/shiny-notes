@@ -5,12 +5,11 @@
 - [ ] dirb
 - [ ] gobuster
 - [ ] Other wordlists
-
-* feroxbuster
+# Feroxbuster
 ```bash
 feroxbuster -u http://($IP_ADDRESS) --silent --output results.txt # optional -w [WORDLIST]
 ```
-* dirbuster
+# dirbuster
 ```bash
 dirbuster&
 ```
