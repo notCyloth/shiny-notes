@@ -1,12 +1,14 @@
 # Checklist
-- [ ] 
+- [ ] Pattern files
+- [ ] Manual API Hacking
+- [ ] Enumerating API's further
 
 API paths are often followed by a version number, resulting in a pattern such as:
 ```
 /api_name/v1
 ```
 The API name is often quite descriptive about the feature or data it uses to operate, followed directly by the version number.
-
+# Pattern files
 With this information, let's try brute forcing the API paths using a wordlist along with the pattern Gobuster feature. We can call this feature by using the -p option and providing a file with patterns. For our test, we'll create a simple pattern file on our Kali system containing the following text:
 ```
 {GOBUSTER}/v1
