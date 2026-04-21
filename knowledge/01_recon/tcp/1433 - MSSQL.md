@@ -1,3 +1,11 @@
 # Checklist
 - [ ] Footprint the service
-- [ ] Login to the
+- [ ] Login to the service
+# Footprint the service
+```bash
+sudo nmap -A -p $IP_ADDRESS
+```
+# Login to the service
+```bash
+sudo nmap -A -p $IP_ADDRESS
+```
