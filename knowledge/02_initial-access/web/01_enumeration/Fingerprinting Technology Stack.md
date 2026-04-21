@@ -5,4 +5,4 @@
 - [ ] Debugging Page Content
 - [ ] Response Headers
 - [ ] Sitemaps
-- [ ] 
+# Nmap Fingerprinting
