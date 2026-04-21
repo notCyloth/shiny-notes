@@ -1,7 +1,7 @@
 # Checklist
 - [ ] Nmap Fingerprinting
 - [ ] Wappalyzer
-- [ ] URL extensions INSERT LINK TO EXTENSION FUZZING HERE
+- [ ] URL extensions 
 - [ ] Debugging Page Content
 - [ ] Response Headers
 - [ ] Sitemaps
@@ -15,7 +15,7 @@ sudo nmap -p 80 --script=http-enum $IP_ADDRESS
 # Wappalyzer
 Use the wappalyzer extension: https://www.wappalyzer.com/
 # URL extensions
-Does the URL have URL extensions?
+Does the URL have URL extensions? [[Extension Fuzzing]]
 i.e. .php = php, .js, .do & .html = java
 LINK TO EXTENSION FUZZING HERE
 # Debugging Page Content
