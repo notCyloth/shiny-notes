@@ -93,26 +93,6 @@ ls /etc/iptables
 ```bash
 ls /etc | grep "ip"
 ```
-## SUIDs
-```bash
-find / -perm -u=s -type f 2>/dev/null
-```
-## Cronjobs
-```bash
-crontab -l
-```
-
-```bash
-sudo crontab -l
-```
-
-```bash
-cat /etc/crontab
-```
-
-```bash
-ls -lah /etc/cron*
-```
 ## Enumerate installed packages
 Debian:
 ```bash
