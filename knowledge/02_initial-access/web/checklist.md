@@ -7,8 +7,8 @@ Enumeration:
 - [ ] [[git Files]]
 - [ ] [[Parameter Fuzzing]]
 Attacks:
-- [ ] File Upload
-- [ ] SQLi
-- [ ] Webshell to Revshell
-- [ ] XSS
-- [ ] SSRF
+- [ ] [[File Upload]]
+- [ ] [[SQLi]]
+- [ ] [[Webshell to Revshell]]
+- [ ] [[XSS]]
+- [ ] [[SSRF]]
