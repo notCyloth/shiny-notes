@@ -31,6 +31,7 @@ net view \\dc01 /all
 ```
 msfconsole
 ```
+
 ```
 use auxiliary/scanner/smb/smb_version
 ```
