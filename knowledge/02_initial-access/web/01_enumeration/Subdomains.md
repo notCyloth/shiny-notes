@@ -1,6 +1,7 @@
 # Checklist
 - [ ] ffuf
 - [ ] gobuster
+- [ ] AssetFinder
 
 ## ffuf
 ```bash
