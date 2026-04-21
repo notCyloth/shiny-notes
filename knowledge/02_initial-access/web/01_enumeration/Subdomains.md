@@ -6,12 +6,11 @@
 - [ ] httprobe
 - [ ] GoWitness
 - [ ] Bash Script
-
-## ffuf
+# ffuf
 ```bash
 ffuf -w /usr/share/seclists/Discovery/DNS/subdomains-top1million-5000.txt:FUZZ -u https://FUZZ.website.com/
 ```
-### vhosts
+## vhosts
 ```bash
 ffuf -w /usr/share/seclists/Discovery/DNS/subdomains-top1million-5000.txt:FUZZ -u http://website.com:PORT/ -H 'Host: FUZZ.website.com'
 ```
