@@ -1,4 +1,7 @@
 - [ ] System Information
 - [ ] Abusing Privileges
-- [ ] Credentials Stored in Registry
+- [ ] Service Hijacking
+- [ ] Unquoted Service Paths
 - [ ] Scheduled Tasks
+- [ ] Credentials Stored in Registry
+- [ ] DLL Hijacking
