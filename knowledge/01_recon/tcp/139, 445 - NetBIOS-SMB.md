@@ -52,7 +52,11 @@ smbclient -L \\\\$IP_ADDRESS\\
 ```
 List specific shares content:
 ```
-smbclient -L \\\\$IP_ADDRESS\\share
+smbclient \\\\$IP_ADDRESS\\share
+```
+Login:
+```bash
+smbclient -N -L //$IP_ADDRESS
 ```
 ## rpcclient
 ```bash
