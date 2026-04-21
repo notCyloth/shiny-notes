@@ -1,8 +1,8 @@
 - [ ] Enumerate system information
 - [ ] Cronjobs
 - [ ] SUID's and Capabilities
-- [ ] Passwd
-- [ ] Sudo
+- [ ] passwd
+- [ ] sudo
 - [ ] Git Files
 - [ ] Hunting Passwords
 - [ ] Kernel Exploits
