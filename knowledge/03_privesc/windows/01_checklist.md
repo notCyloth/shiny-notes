@@ -1,5 +1,5 @@
 - [ ] System Information
-- [ ] Abusing Privileges
+- [ ] [[Abusing Privileges]]
 - [ ] Service Hijacking
 - [ ] Unquoted Service Paths
 - [ ] Scheduled Tasks
