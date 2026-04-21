@@ -5,6 +5,7 @@
 - [ ] Amass
 - [ ] httprobe
 - [ ] GoWitness
+- [ ] Bash Scri
 
 ## ffuf
 ```bash
@@ -18,7 +19,6 @@ This will ALL return 200's but the request size will be different for a successf
 ```bash
 ffuf -w /usr/share/seclists/Discovery/DNS/subdomains-top1million-5000.txt:FUZZ -u http://website.com:PORT/ -H 'Host: FUZZ.website.com' -fs [RESPONSE SIZE TO FILTER OUT]
 ```
-
 ## gobuster
 ```bash
 gobuster dns -d 192.168.154.199 -w /usr/share/wordlists/amass/all.txt -t 5
