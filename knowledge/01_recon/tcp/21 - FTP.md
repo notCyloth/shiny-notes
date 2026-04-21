@@ -15,3 +15,5 @@ ftp $IP_ADDRESS
 ```bash
 wget -m —no-passive ftp://user:password@targetip
 ```
+# Upload to web directory
+If the ftp has access to webroot - upload a revshell!
