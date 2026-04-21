@@ -15,3 +15,9 @@ Show a specific commit:
 ```bash
 git show <commit id>
 ```
+# Check different branches
+List all available branches:
+```bash
+git branch -a
+```
+Switch to a 
