@@ -2,7 +2,9 @@
 - [ ] ffuf
 - [ ] gobuster
 - [ ] AssetFinder
-- [ ] Ama
+- [ ] Amass
+- [ ] httprobe
+- [ ] GoWitness
 
 ## ffuf
 ```bash
