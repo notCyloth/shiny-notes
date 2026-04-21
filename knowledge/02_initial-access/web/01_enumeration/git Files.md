@@ -20,4 +20,8 @@ List all available branches:
 ```bash
 git branch -a
 ```
-Switch to a 
+Switch to a different branch:
+```bash
+git switch <branch>
+```
+Remember to check previous commits and tags for these branches too!
