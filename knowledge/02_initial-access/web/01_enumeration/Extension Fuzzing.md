@@ -8,8 +8,8 @@ Identfy the server type based on HTTP response headers. For example:
 - .aspx
 # Brute force index page
 ```
-ffuf -w /usr/share/seclists/Discovery/Web-Content/web-extensions.txt:FUZZ -u http://$(IP_ADDRESS):$(PORT)/indexFUZZ -mc 200
+ffuf -w /usr/share/seclists/Discovery/Web-Content/web-extensions.txt:FUZZ -u http://$IP_ADDRESS:$PORT/indexFUZZ -mc 200
 ```
 Once an extension is found, pages can be bruteforced with the -e 'extension' i.e. -e .php, so the wordlist will check the words with and without the extension.
-## Check source code of page
-RIgt click and check the source code of a page to see if it shows you the webpage extension.
+# Check source code of page
+Right click and check the source code of a page to see if it shows you the webpage extension.
