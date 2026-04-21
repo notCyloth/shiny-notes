@@ -8,3 +8,6 @@
 sudo nmap -p 21 -A $IP_ADDRESS
 ```
 # Anonymous(?) Login
+```bash
+ftp $IP_ADDRESS
+```
