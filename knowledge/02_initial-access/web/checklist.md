@@ -3,7 +3,7 @@ Enumeration:
 - [ ] [[Subdomains]]
 - [ ] [[Extension Fuzzing]]
 - [ ] [[Directory Fuzzing]]
-- [ ] API Fuzzing
+- [ ] [[API Fuzzing]]
 - [ ] [[git Files]]
 - [ ] Parameter Fuzzing
 Attacks:
