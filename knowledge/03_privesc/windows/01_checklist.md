@@ -1,6 +1,6 @@
 - [ ] System Information
 - [ ] [[Abusing Privileges]]
-- [ ] Service Hijacking
+- [ ] [[Service Hijacking]]
 - [ ] Unquoted Service Paths
 - [ ] Scheduled Tasks
 - [ ] Credentials Stored in Registry

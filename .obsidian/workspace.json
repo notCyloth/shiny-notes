@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/03_privesc/windows/Service Hijacking.md",
+                "file": "knowledge/03_privesc/windows/01_checklist.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Service Hijacking"
+              "title": "01_checklist"
             }
           }
         ]
@@ -184,13 +184,13 @@
   },
   "active": "a6b83970f95bf3f4",
   "lastOpenFiles": [
+    "knowledge/03_privesc/windows/Service Hijacking.md",
     "knowledge/03_privesc/windows/Abusing Privileges.md",
     "knowledge/01_recon/tcp/1433 - MSSQL.md",
     "knowledge/00_start/Environment Variables.md",
     "knowledge/01_recon/tcp/139, 445 - NetBIOS-SMB.md",
     "knowledge/01_recon/tcp/21 - FTP.md",
     "knowledge/01_recon/tcp/22 - SSH.md",
-    "knowledge/03_privesc/windows/Service Hijacking.md",
     "knowledge/03_privesc/windows/01_checklist.md",
     "knowledge/03_privesc/linux/01_checklist.md",
     "knowledge/03_privesc/linux/System Information.md",
