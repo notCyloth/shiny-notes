@@ -35,3 +35,5 @@ Get-UnquotedService
 Invoke-AllChecks
 ```
 # Windows Exploit Suggester
+https://github.com/bitsadmin/wesng
+Run systeminfo and save it as systeminfo.txt
