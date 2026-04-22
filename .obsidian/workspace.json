@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/03_privesc/linux/PrivEsc Scripts.md",
+                "file": "knowledge/03_privesc/windows/PrivEsc Scripts.md",
                 "mode": "source",
                 "source": false
               },
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "knowledge/03_privesc/linux/PrivEsc Scripts.md",
+                "file": "knowledge/03_privesc/windows/PrivEsc Scripts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "knowledge/03_privesc/linux/PrivEsc Scripts.md",
+                "file": "knowledge/03_privesc/windows/PrivEsc Scripts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "knowledge/03_privesc/linux/PrivEsc Scripts.md",
+                "file": "knowledge/03_privesc/windows/PrivEsc Scripts.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -186,13 +186,13 @@
   },
   "active": "2f8eafbc2fa8262e",
   "lastOpenFiles": [
+    "knowledge/03_privesc/linux/PrivEsc Scripts.md",
     "knowledge/03_privesc/linux/01_linux_privesc_checklist.md",
     "knowledge/03_privesc/linux/System Information.md",
     "knowledge/03_privesc/windows/PrivEsc Scripts.md",
     "Cheatsheet.md",
     "knowledge/03_privesc/linux/Cronjobs.md",
     "knowledge/03_privesc/windows/01_windows_privesc_checklist.md",
-    "knowledge/03_privesc/linux/PrivEsc Scripts.md",
     "knowledge/03_privesc/windows/System Information.md",
     "knowledge/02_initial-access/web/web_checklist.md",
     "knowledge/03_privesc/windows/DLL Hijacking.md",
