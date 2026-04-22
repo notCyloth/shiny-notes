@@ -4,4 +4,4 @@ TO DO - Punch function into .bashrc that pulls env vars from file and displays t
 `export IP_RANGE=` e.g. 192.168.50.1-254`
 `export DNS_SERVER=`
 `export DOMAIN_NAME=`
-`export=HOST_NAME=`aaaa
+`export=HOST_NAME=`
