@@ -62,7 +62,7 @@ env
 ```bash
 cat .bashrc
 ```
-## Network Information
+# Network Information
 ```bash
 ip a
 ```
@@ -83,7 +83,7 @@ ss -anp
 ```bash
 sudo tcpdump -i $(INTERFACE) -A | grep "pass"
 ```
-### Firewall Rules
+## Firewall Rules
 ```bash
 ls /etc/iptables
 ```
@@ -91,16 +91,16 @@ ls /etc/iptables
 ```bash
 ls /etc | grep "ip"
 ```
-## Enumerate installed packages
+# Enumerate installed packages
 Debian:
 ```bash
 dpkg -l
 ```
-## Every writeable directory by current user
+# Every writeable directory by current user
 ```bash
 find / -writable -type d 2>/dev/null
 ```
-## List mounted filesystems
+# List mounted filesystems
 List drives that will be mounted on boot:
 ```bash
 cat /etc/fstab

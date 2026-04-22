@@ -10,20 +10,16 @@ whoami /priv
 ```powershell
 whoami /groups
 ```
-## Existing users and groups
-### Enumerating Users
+# Existing users and groups
+## Enumerating Users
 ```batch
 net user $USER
 ```
-```
-<insert output here>
-```
+
 ```powershell
 Get-LocalUser
 ```
-```
-<insert output here>
-```
+
 ### Enumerating Groups
 ```batch
 net localgroup
