@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/02_initial-access/web/01_enumeration/Git Files.md",
+                "file": "knowledge/03_privesc/linux/passwd.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git Files"
+              "title": "passwd"
             }
           }
         ]
@@ -184,17 +184,17 @@
   },
   "active": "a6b83970f95bf3f4",
   "lastOpenFiles": [
-    "knowledge/03_privesc/linux/Git Files.md",
-    "knowledge/03_privesc/linux/Hunting Passwords.md",
     "knowledge/03_privesc/linux/PrivEsc Scripts.md",
     "knowledge/03_privesc/linux/sudo.md",
     "knowledge/03_privesc/linux/SUID's and Capabilities.md",
     "knowledge/03_privesc/linux/System Information.md",
+    "knowledge/02_initial-access/web/01_enumeration/Git Files.md",
+    "knowledge/03_privesc/linux/Git Files.md",
+    "knowledge/03_privesc/linux/Hunting Passwords.md",
     "knowledge/03_privesc/linux/01_linux_privesc_checklist.md",
     "knowledge/02_initial-access/web/01_enumeration/Parameter Fuzzing.md",
     "knowledge/02_initial-access/web/01_enumeration/Subdomains.md",
     "knowledge/02_initial-access/web/01_enumeration/Fingerprinting Technology Stack.md",
-    "knowledge/02_initial-access/web/01_enumeration/Git Files.md",
     "knowledge/02_initial-access/web/01_enumeration/API Fuzzing.md",
     "knowledge/02_initial-access/web/01_enumeration/Directory Fuzzing.md",
     "knowledge/02_initial-access/web/01_enumeration/Extension Fuzzing.md",
