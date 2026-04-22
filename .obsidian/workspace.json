@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/03_privesc/linux/01_linux_privesc_checklist.md",
+                "file": "knowledge/03_privesc/linux/System Information.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01_linux_privesc_checklist"
+              "title": "System Information"
             }
           }
         ]
@@ -184,6 +184,7 @@
   },
   "active": "a6b83970f95bf3f4",
   "lastOpenFiles": [
+    "knowledge/03_privesc/linux/01_linux_privesc_checklist.md",
     "knowledge/02_initial-access/web/01_enumeration/Parameter Fuzzing.md",
     "knowledge/02_initial-access/web/01_enumeration/Subdomains.md",
     "knowledge/02_initial-access/web/01_enumeration/Fingerprinting Technology Stack.md",
@@ -199,7 +200,6 @@
     "knowledge/03_privesc/windows/DLL Hijacking.md",
     "knowledge/03_privesc/windows/Credentials Stored in Registry.md",
     "knowledge/03_privesc/windows/01_windows_privesc_checklist.md",
-    "knowledge/03_privesc/linux/01_linux_privesc_checklist.md",
     "knowledge/02_initial-access/web/web_checklist.md",
     "knowledge/03_privesc/windows/Unquoted Service Paths.md",
     "knowledge/03_privesc/windows/Service Hijacking.md",
