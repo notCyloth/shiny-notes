@@ -1,4 +1,4 @@
-- [ ] System Information
+- [ ] [[System Information]]
 - [ ] [[Abusing Privileges]]
 - [ ] [[Service Hijacking]]
 - [ ] [[Unquoted Service Paths]]

@@ -1,4 +1,4 @@
-- [ ] [[System Information]]
+- [ ] [[knowledge/03_privesc/linux/System Information]]
 - [ ] [[Cronjobs]]
 - [ ] [[SUID's and Capabilities]]
 - [ ] [[passwd]]
