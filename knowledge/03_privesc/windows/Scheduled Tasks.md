@@ -12,6 +12,7 @@ Programs and scripts specified by actions can be replaced with payloads or explo
 ```powershell
 Get-ScheduledTask
 ```
+
 ```batch
 schtasks /query /fo LIST /v
 ```

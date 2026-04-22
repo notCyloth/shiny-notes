@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/03_privesc/windows/Scheduled Tasks.md",
+                "file": "knowledge/03_privesc/windows/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Scheduled Tasks"
+              "title": "Untitled"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "knowledge/03_privesc/windows/Scheduled Tasks.md",
+                "file": "knowledge/03_privesc/windows/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Scheduled Tasks"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "knowledge/03_privesc/windows/Scheduled Tasks.md",
+                "file": "knowledge/03_privesc/windows/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Scheduled Tasks"
+              "title": "Outgoing links from Untitled"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "knowledge/03_privesc/windows/Scheduled Tasks.md",
+                "file": "knowledge/03_privesc/windows/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Scheduled Tasks"
+              "title": "Outline of Untitled"
             }
           }
         ]
@@ -187,6 +187,7 @@
   "active": "2f8eafbc2fa8262e",
   "lastOpenFiles": [
     "knowledge/03_privesc/windows/01_checklist.md",
+    "knowledge/03_privesc/windows/Untitled.md",
     "knowledge/03_privesc/windows/Scheduled Tasks.md",
     "knowledge/03_privesc/linux/01_checklist.md",
     "knowledge/00_start/Environment Variables.md",
@@ -211,7 +212,6 @@
     "knowledge/03_privesc/linux/sudo.md",
     "knowledge/03_privesc/linux/PrivEsc Scripts.md",
     "knowledge/03_privesc/linux/passwd.md",
-    "knowledge/03_privesc/linux/Kernel Exploits.md",
     "knowledge/02_initial-access/web/02_attacks",
     "knowledge/02_initial-access/web/01_enumeration",
     "knowledge/03_privesc/windows",
