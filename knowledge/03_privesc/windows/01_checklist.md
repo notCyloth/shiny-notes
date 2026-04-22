@@ -2,6 +2,6 @@
 - [ ] [[Abusing Privileges]]
 - [ ] [[Service Hijacking]]
 - [ ] [[Unquoted Service Paths]]
-- [ ] Scheduled Tasks
+- [ ] [[Scheduled Tasks]]
 - [ ] Credentials Stored in Registry
 - [ ] DLL Hijacking
