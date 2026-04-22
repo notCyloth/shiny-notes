@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/03_privesc/linux/01_linux_privesc_checklist.md",
+                "file": "Cheatsheet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01_linux_privesc_checklist"
+              "title": "Cheatsheet"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "knowledge/03_privesc/linux/01_linux_privesc_checklist.md",
+                "file": "Cheatsheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 01_linux_privesc_checklist"
+              "title": "Backlinks for Cheatsheet"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "knowledge/03_privesc/linux/01_linux_privesc_checklist.md",
+                "file": "Cheatsheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 01_linux_privesc_checklist"
+              "title": "Outgoing links from Cheatsheet"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "knowledge/03_privesc/linux/01_linux_privesc_checklist.md",
+                "file": "Cheatsheet.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 01_linux_privesc_checklist"
+              "title": "Outline of Cheatsheet"
             }
           }
         ]
@@ -186,8 +186,8 @@
   },
   "active": "2f8eafbc2fa8262e",
   "lastOpenFiles": [
-    "knowledge/03_privesc/linux/Cronjobs.md",
     "knowledge/03_privesc/linux/01_linux_privesc_checklist.md",
+    "knowledge/03_privesc/linux/Cronjobs.md",
     "knowledge/03_privesc/windows/01_windows_privesc_checklist.md",
     "knowledge/03_privesc/windows/PrivEsc Scripts.md",
     "knowledge/03_privesc/linux/PrivEsc Scripts.md",
