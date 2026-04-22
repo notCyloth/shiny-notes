@@ -1,8 +1,6 @@
 Just use this: 
-
 https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Linux%20-%20Privilege%20Escalation.md
-
-## Operating system, version and architecture
+# Operating system, version and architecture
 ```bash
 sudo --version
 ```
@@ -28,11 +26,11 @@ Display kernel driver info:
 ```bash
 /sbin/modinfo $(KERNEL_NAME)
 ```
-## Current User Groups
+# Current User Groups
 ```bash
 id
 ```
-## Services
+# Services
 ```bash
 ps aux
 ```
@@ -40,7 +38,7 @@ ps aux
 ```bash
 watch -n 1 "ps -aux | grep pass"
 ```
-## Users
+# Users
 ```bash
 cat /home
 ```
@@ -48,15 +46,15 @@ cat /home
 ```bash
 cat /etc/passwd
 ```
-## History
+# History
 ```bash
 cat ~/.bash_history
 ```
-## List Sudo Permissions
+# List Sudo Permissions
 ```bash
 sudo -l
 ```
-## Environment Variables
+# Environment Variables
 ```bash
 env
 ```

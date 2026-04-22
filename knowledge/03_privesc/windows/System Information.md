@@ -1,25 +1,15 @@
-## Username and Hostname
+# Username and Hostname
 ```powershell
 whoami
 ```
-```
-<insert hostname\username here>
-```
-## Privileges of the current user
+# Privileges of the current user
 ```batch
 whoami /priv
 ```
-```
-<insert privileges here>
-```
-## Group memberships of the current user
+# Group memberships of the current user
 ```powershell
 whoami /groups
 ```
-```
-<insert output here>
-```
-
 ## Existing users and groups
 ### Enumerating Users
 ```batch
