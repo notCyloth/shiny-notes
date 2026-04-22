@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/03_privesc/windows/Untitled.md",
+                "file": "knowledge/03_privesc/windows/01_checklist.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "01_checklist"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "knowledge/03_privesc/windows/Untitled.md",
+                "file": "knowledge/03_privesc/windows/01_checklist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for 01_checklist"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "knowledge/03_privesc/windows/Untitled.md",
+                "file": "knowledge/03_privesc/windows/01_checklist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links from 01_checklist"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "knowledge/03_privesc/windows/Untitled.md",
+                "file": "knowledge/03_privesc/windows/01_checklist.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of 01_checklist"
             }
           }
         ]
@@ -186,8 +186,8 @@
   },
   "active": "2f8eafbc2fa8262e",
   "lastOpenFiles": [
+    "knowledge/03_privesc/windows/Credentials Stored in Registry.md",
     "knowledge/03_privesc/windows/01_checklist.md",
-    "knowledge/03_privesc/windows/Untitled.md",
     "knowledge/03_privesc/windows/Scheduled Tasks.md",
     "knowledge/03_privesc/linux/01_checklist.md",
     "knowledge/00_start/Environment Variables.md",
