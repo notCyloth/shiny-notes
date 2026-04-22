@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/02_initial-access/web/01_enumeration/Parameter Fuzzing.md",
+                "file": "knowledge/03_privesc/linux/01_linux_privesc_checklist.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Parameter Fuzzing"
+              "title": "01_linux_privesc_checklist"
             }
           }
         ]
@@ -184,6 +184,7 @@
   },
   "active": "a6b83970f95bf3f4",
   "lastOpenFiles": [
+    "knowledge/02_initial-access/web/01_enumeration/Parameter Fuzzing.md",
     "knowledge/02_initial-access/web/01_enumeration/Subdomains.md",
     "knowledge/02_initial-access/web/01_enumeration/Fingerprinting Technology Stack.md",
     "knowledge/02_initial-access/web/01_enumeration/Git Files.md",
@@ -209,7 +210,6 @@
     "knowledge/01_recon/tcp/22 - SSH.md",
     "knowledge/03_privesc/linux/01_checklist.md",
     "knowledge/03_privesc/linux/System Information.md",
-    "knowledge/03_privesc/linux/PrivEsc Scripts.md",
     "knowledge/03_privesc/linux",
     "knowledge/03_privesc/windows",
     "knowledge/05_pivoting",
