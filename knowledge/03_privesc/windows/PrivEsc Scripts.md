@@ -36,4 +36,12 @@ Invoke-AllChecks
 ```
 # Windows Exploit Suggester
 https://github.com/bitsadmin/wesng
-Run systeminfo and save it as systeminfo.txt
+Run systeminfo and save it as systeminfo.txt locally.
+The run the tool:
+```bash
+pip install wesng
+```
+
+```
+wes.py systeminfo.txt
+```
