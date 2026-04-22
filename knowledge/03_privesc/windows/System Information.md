@@ -24,54 +24,34 @@ Get-LocalUser
 ```batch
 net localgroup
 ```
-```
-<insert output here>
-```
+
 ```powershell
 Get-LocalGroup
 ```
-```
-<insert output here>
-```
+
 ```powershell
 Get-LocalGroupMember $GROUP
 ```
-```
-<insert output here>
-```
-
-## Operating system, version and architecture
-### System Information
+# Operating system, version and architecture
+## System Information
 ```batch
 systeminfo
 ```
-```
-<insert output here>
-```
+
 ```powershell
 Get-CimInstance -Class win32_quickfixengineering | Where-Object { $_.Description -eq "Security Update" }
 ```
-```
-<insert security patches here>
-```
-### Network Information
+## Network Information
 ```batch
 ipconfig /all
 ```
-```
-<insert output here>
-```
+
 ```batch
 route print
 ```
-```
-<insert output here>
-```
+
 ```batch
 netstat -ano
-```
-```
-<insert output here>
 ```
 ### Installed Applications and Running Services
 ```powershell
