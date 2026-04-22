@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/03_privesc/linux/PrivEsc Scripts.md",
+                "file": "knowledge/04_active-directory/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PrivEsc Scripts"
+              "title": "Untitled"
             }
           }
         ]
@@ -184,10 +184,11 @@
   },
   "active": "a6b83970f95bf3f4",
   "lastOpenFiles": [
+    "knowledge/03_privesc/linux/PrivEsc Scripts.md",
+    "knowledge/04_active-directory/Untitled.md",
     "knowledge/03_privesc/linux/01_linux_privesc_checklist.md",
     "knowledge/03_privesc/linux/SUID's and Capabilities.md",
     "knowledge/03_privesc/linux/System Information.md",
-    "knowledge/03_privesc/linux/PrivEsc Scripts.md",
     "knowledge/03_privesc/linux/passwd.md",
     "knowledge/03_privesc/linux/sudo.md",
     "knowledge/02_initial-access/web/01_enumeration/Git Files.md",
@@ -209,7 +210,6 @@
     "knowledge/03_privesc/windows/01_windows_privesc_checklist.md",
     "knowledge/02_initial-access/web/web_checklist.md",
     "knowledge/03_privesc/windows/Unquoted Service Paths.md",
-    "knowledge/03_privesc/windows/Service Hijacking.md",
     "knowledge/03_privesc/linux",
     "knowledge/03_privesc/windows",
     "knowledge/05_pivoting",
