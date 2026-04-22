@@ -5,3 +5,4 @@
 - [ ] [[Scheduled Tasks]]
 - [ ] [[Credentials Stored in Registry]]
 - [ ] [[DLL Hijacking]]
+- [ ] PrivEsc Scripts

@@ -6,4 +6,4 @@
 - [ ] [[knowledge/03_privesc/linux/Git Files|Git Files]]
 - [ ] [[Hunting Passwords]]
 - [ ] [[Kernel Exploits]]
-- [ ] [[PrivEsc Scripts]]
+- [ ] [[knowledge/03_privesc/linux/PrivEsc Scripts]]
