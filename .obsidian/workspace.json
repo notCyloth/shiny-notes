@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cheatsheet.md",
+                "file": "knowledge/03_privesc/windows/PrivEsc Scripts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cheatsheet"
+              "title": "PrivEsc Scripts"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cheatsheet.md",
+                "file": "knowledge/03_privesc/windows/PrivEsc Scripts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Cheatsheet"
+              "title": "Backlinks for PrivEsc Scripts"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cheatsheet.md",
+                "file": "knowledge/03_privesc/windows/PrivEsc Scripts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Cheatsheet"
+              "title": "Outgoing links from PrivEsc Scripts"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cheatsheet.md",
+                "file": "knowledge/03_privesc/windows/PrivEsc Scripts.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Cheatsheet"
+              "title": "Outline of PrivEsc Scripts"
             }
           }
         ]
@@ -186,6 +186,7 @@
   },
   "active": "2f8eafbc2fa8262e",
   "lastOpenFiles": [
+    "Cheatsheet.md",
     "knowledge/03_privesc/linux/01_linux_privesc_checklist.md",
     "knowledge/03_privesc/linux/Cronjobs.md",
     "knowledge/03_privesc/windows/01_windows_privesc_checklist.md",
@@ -198,7 +199,6 @@
     "knowledge/03_privesc/windows/Scheduled Tasks.md",
     "knowledge/03_privesc/windows/Credentials Stored in Registry.md",
     "knowledge/00_start/Environment Variables.md",
-    "Cheatsheet.md",
     "knowledge/02_initial-access/web/02_attacks/XSS.md",
     "knowledge/02_initial-access/web/02_attacks/Webshell to Revshell.md",
     "knowledge/02_initial-access/web/02_attacks/SSRF.md",
