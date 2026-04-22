@@ -4,4 +4,4 @@
 - [ ] [[Unquoted Service Paths]]
 - [ ] [[Scheduled Tasks]]
 - [ ] [[Credentials Stored in Registry]]
-- [ ] DLL Hijacking
+- [ ] [[DLL Hijacking]]
