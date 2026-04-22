@@ -41,7 +41,7 @@ systeminfo
 ```powershell
 Get-CimInstance -Class win32_quickfixengineering | Where-Object { $_.Description -eq "Security Update" }
 ```
-## Network Information
+# Network Information
 ```batch
 ipconfig /all
 ```
@@ -53,37 +53,27 @@ route print
 ```batch
 netstat -ano
 ```
-### Installed Applications and Running Services
+# Installed Applications and Running Services
 ```powershell
 Get-ItemProperty "HKLM:\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\*" | select displayname
 ```
-```
-<insert output here>
-```
+
 ```powershell
 Get-ItemProperty "HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\*" | select displayname
 ```
-```
-<insert output here>
-```
+
 ```batch
 dir "C:\Program Files"
 ```
-```
-<insert output here>
-```
+
 ```batch
 dir "C:\Program Files (x86)"
 ```
-```
-<insert output here>
-```
+
 ```batch
 dir $env:userprofile\Downloads
 ```
-```
-<insert output here>
-```
+
 ```powershell
 Get-Process
 ```
