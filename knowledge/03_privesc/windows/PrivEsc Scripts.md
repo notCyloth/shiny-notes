@@ -34,3 +34,4 @@ Get-UnquotedService
 ```
 Invoke-AllChecks
 ```
+# Windows Exploit Suggester
