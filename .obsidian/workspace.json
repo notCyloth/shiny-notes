@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/03_privesc/linux/Git Files.md",
+                "file": "knowledge/02_initial-access/web/01_enumeration/Git Files.md",
                 "mode": "source",
                 "source": false
               },
@@ -184,6 +184,7 @@
   },
   "active": "a6b83970f95bf3f4",
   "lastOpenFiles": [
+    "knowledge/03_privesc/linux/Git Files.md",
     "knowledge/03_privesc/linux/Hunting Passwords.md",
     "knowledge/03_privesc/linux/PrivEsc Scripts.md",
     "knowledge/03_privesc/linux/sudo.md",
@@ -209,7 +210,6 @@
     "knowledge/03_privesc/windows/Unquoted Service Paths.md",
     "knowledge/03_privesc/windows/Service Hijacking.md",
     "knowledge/01_recon/tcp/1433 - MSSQL.md",
-    "knowledge/00_start/Environment Variables.md",
     "knowledge/03_privesc/linux",
     "knowledge/03_privesc/windows",
     "knowledge/05_pivoting",
