@@ -10,9 +10,11 @@
 ```bash
 nmap -v -p 139,445 -oG smb.txt $IP_RANGE
 ```
+
 ```bash
 grep open smb.txt | cut -d " " -f 2
 ```
+
 ```bash
 nmap -v -p 139,445 --script smb-os-discovery $IP_ADDRESS
 ```
