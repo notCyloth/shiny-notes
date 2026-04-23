@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/04_active-directory/Untitled.md",
+                "file": "writeups/tmp.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "tmp"
             }
           }
         ]
@@ -184,8 +184,11 @@
   },
   "active": "a6b83970f95bf3f4",
   "lastOpenFiles": [
+    "template/tmp.md",
+    "writeups/tmp.md",
+    "knowledge/05_pivoting/tmp.md",
+    "knowledge/04_active-directory/tmp.md",
     "knowledge/03_privesc/linux/PrivEsc Scripts.md",
-    "knowledge/04_active-directory/Untitled.md",
     "knowledge/03_privesc/linux/01_linux_privesc_checklist.md",
     "knowledge/03_privesc/linux/SUID's and Capabilities.md",
     "knowledge/03_privesc/linux/System Information.md",
@@ -207,9 +210,6 @@
     "knowledge/03_privesc/windows/System Information.md",
     "knowledge/03_privesc/windows/DLL Hijacking.md",
     "knowledge/03_privesc/windows/Credentials Stored in Registry.md",
-    "knowledge/03_privesc/windows/01_windows_privesc_checklist.md",
-    "knowledge/02_initial-access/web/web_checklist.md",
-    "knowledge/03_privesc/windows/Unquoted Service Paths.md",
     "knowledge/03_privesc/linux",
     "knowledge/03_privesc/windows",
     "knowledge/05_pivoting",
