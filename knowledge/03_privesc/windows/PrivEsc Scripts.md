@@ -18,7 +18,7 @@ pip install wesng
 ```
 Or
 ```bash
-`git clone https://github.com/bitsadmin/wesng --depth 1`
+git clone https://github.com/bitsadmin/wesng --depth 1
 ```
 ## Running the tool
 ```
