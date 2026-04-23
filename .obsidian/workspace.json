@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/01_recon/tcp/139, 445 - NetBIOS-SMB.md",
+                "file": "knowledge/03_privesc/windows/Abusing Privileges.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "139, 445 - NetBIOS-SMB"
+              "title": "Abusing Privileges"
             }
           }
         ]
@@ -184,6 +184,8 @@
   },
   "active": "a6b83970f95bf3f4",
   "lastOpenFiles": [
+    "knowledge/03_privesc/windows/01_windows_privesc_checklist.md",
+    "knowledge/01_recon/tcp/139, 445 - NetBIOS-SMB.md",
     "writeups/tmp.md",
     "conflict-files-obsidian-git.md",
     "template/tmp.md",
@@ -208,8 +210,6 @@
     "knowledge/03_privesc/windows/Scheduled Tasks.md",
     "knowledge/03_privesc/windows/Abusing Privileges.md",
     "knowledge/03_privesc/windows/01_checklist.md",
-    "knowledge/03_privesc/windows/System Information.md",
-    "knowledge/03_privesc/windows/DLL Hijacking.md",
     "knowledge/03_privesc/linux",
     "knowledge/03_privesc/windows",
     "knowledge/05_pivoting",
