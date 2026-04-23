@@ -188,6 +188,7 @@
   "active": "2f8eafbc2fa8262e",
   "lastOpenFiles": [
     "knowledge/01_recon/tcp/389, 636, 3268, 3269 - LDAP.md",
+    "knowledge/01_recon/tcp/139, 445 - NetBIOS-SMB.md",
     "knowledge/03_privesc/windows/PrivEsc Scripts.md",
     "knowledge/04_active-directory/Untitled.md",
     "knowledge/04_active-directory",
@@ -213,7 +214,6 @@
     "knowledge/02_initial-access/web/01_enumeration/Parameter Fuzzing.md",
     "knowledge/02_initial-access/web/01_enumeration/Fingerprinting Technology Stack.md",
     "knowledge/02_initial-access/web/01_enumeration/Extension Fuzzing.md",
-    "knowledge/02_initial-access/web/01_enumeration/Directory Fuzzing.md",
     "knowledge/02_initial-access/web/02_attacks",
     "knowledge/02_initial-access/web/01_enumeration",
     "knowledge/03_privesc/windows",
